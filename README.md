@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I’m a **web developer** with a passion for build
 
 1. **NoteHub** – A full-featured note-taking app using **React** and **Firebase**. Users can create, edit, and manage notes in real-time. [🔗 Check it out here!](https://hasinur3813.github.io/notehub)
 
-2. **Pet Adoption Website** – A work-in-progress website for pet adoption that allows users to browse and inquire about adoptable pets.
+2. **Todo App** – A simple yet powerful to-do list app built with **React** and **localStorage** to manage tasks. It allows users to add, edit, delete, and persist tasks between sessions. A clean and efficient project to organize daily tasks! [🔗 Check it out here!](https://hasinur3813.github.io/react-todo)
 
-3. **Portfolio Projects** – View some of my other projects where I’ve implemented **React** components, designed custom UIs with **Tailwind CSS**, and utilized **Firebase** for real-time data updates.
+
 
 ---
 
