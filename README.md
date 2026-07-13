@@ -2,103 +2,60 @@
   <img height="200" src="https://raw.githubusercontent.com/Hasinur3813/Hasinur3813/refs/heads/main/banner.png"  />
 </div>
 
-###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Hasinur Rahman
 
-###
+### Full-Stack Web Developer | Frontend Specialist 🚀
 
-<h4 align="left">I am a passionate Web Developer. I am from Pabna, Rajshahi, Bangladesh</h4>
+An ambitious and detail-oriented Full-Stack Developer specializing in building high-performance, responsive, and user-centric web applications. With deep roots in the React ecosystem and solid backend experience, I bridge the gap between robust system architecture and seamless user interfaces.
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Tech Stack & Ecosystem
 
-###
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend Core** | `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` |
+| **Frameworks & Libs** | `React.js` `Next.js` `Framer Motion` `React Awesome Reveal` |
+| **UI & Styling** | `Tailwind CSS` `Ant Design` `DaisyUI` `Bootstrap` |
+| **Backend & Database** | `Node.js` `Express.js` `MongoDB` `Mongoose` |
+| **Auth & Security** | `JSON Web Tokens (JWT)` `Firebase Auth` |
 
-<p align="left">I am a passionate Front-End Developer with expertise in building dynamic and responsive web applications. I enjoy solving problems and turning ideas into functional, visually appealing interfaces.</p>
+---
 
-###
+### 🚀 Featured Engineering Projects
 
-<p align="left">🔭 Currently Working On: Sharpening my backend skills and building full-stack applications using Next.js and Node.js.<br>🌱 Learning: Full-stack development with a focus on Node.js, Express, and efficient API design.<br>🚀 Goal: To build smooth, impactful user experiences by blending modern frontend design with robust backend systems.<br>🏗️ Next Steps: Developing scalable, real-world projects with Next.js and Node.js.</p>
+#### 🌐 **GreenImpact**
+*A sustainable platform tracking and incentivizing eco-friendly actions.*
+- **Architecture:** MERN Stack (React, Node.js, Express, MongoDB)
+- **Key Features:** Secure JWT-based authentication, interactive state management, and responsive layouts using Tailwind CSS.
+- **Impact:** Optimized database queries using Mongoose to ensure seamless real-time impact updates.
 
-###
+#### 🎓 **EduLink**
+*An educational bridging application connecting students with academic resources.*
+- **Architecture:** Next.js, Tailwind CSS, Node.js, MongoDB
+- **Key Features:** Server-side rendering (SSR) for lightning-fast loading speeds and enhanced SEO performance. Highly dynamic interactive UI utilizing Framer Motion.
 
-<h2 align="left">I code with</h2>
+#### 📝 **EduTrial**
+*A seamless, secure portal for managing test environments and mock assessments.*
+- **Architecture:** React, TypeScript, Firebase, Express.js
+- **Key Features:** Managed strict data contracts using TypeScript. Implemented robust Firebase third-party authentication and state-driven dashboard UIs.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-</div>
+### 📊 GitHub Analytics
 
-###
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasinur3813&show_icons=true&theme=tokyonight&count_private=true" alt="Hasinur's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasinur3813&theme=tokyonight" alt="Hasinur's Streak Stats" height="180" />
+</p>
 
-<h3 align="left">Socials</h3>
+---
 
-###
+### 🤝 Connect With Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hasinur3813/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/ha3813" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/8801773061332" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+Let's collaborate on impactful projects, discuss architecture, or talk about modern frontend optimization.
 
-###
-
-<h3 align="left">My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasinur3813&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasinur3813&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hasinur3813&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hasinur3813&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+- **LinkedIn:** [linkedin.com/in/hasinur3813](https://linkedin.com/in/hasinur3813)
+- **GitHub:** [github.com/hasinur3813](https://github.com/hasinur3813)
+- **Resume:** [View Full Professional Resume](https://drive.google.com/file/d/1fX8LtrBw4r0CoslPiCaRcskz2_Vffg4W/view?usp=drivesdk)
